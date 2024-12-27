@@ -54,16 +54,16 @@ After running the above command, open the URL in your browser (`http://localhost
 
 ## Screenshot
 ### 1. Sign-In Page
-![Sign-In Screenshot](https://github.com/user-attachments/assets/sign-in.jpg)
+![Screenshot (243)](https://github.com/user-attachments/assets/f09d7c24-862f-4b43-ad0e-ce20893e4240)
 
 ### 2. Dynamic Menu Display
-![Menu Screenshot](https://github.com/user-attachments/assets/menu.jpg)
+![Screenshot (245)](https://github.com/user-attachments/assets/ad3fd211-ff6c-4d5a-bc63-fb1d1ea68f50)
 
 ### 3. Add Items to Cart
-![Cart Screenshot](https://github.com/user-attachments/assets/cart.jpg)
+![Screenshot (246)](https://github.com/user-attachments/assets/ceec82b4-afd9-4ae3-a76c-e6c2c54f9ed6)
 
 ### 4. Order Summary with Delivery Charges
-![Order Summary Screenshot](https://github.com/user-attachments/assets/order-summary.jpg)
+![Screenshot (247)](https://github.com/user-attachments/assets/8df73ebf-c7fd-45bb-8db6-42fadc0aa239)
 
 ## Additional Features
 #### Dynamic Menu: The menu dynamically updates with different categories like Veg, Non-Veg, and Desserts.
