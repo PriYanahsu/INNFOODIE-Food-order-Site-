@@ -4,7 +4,7 @@
 INNFOODIE is a React-based web application designed for food ordering. It provides users with an interactive interface to order food from a dynamic menu that changes based on categories such as Veg, Non-Veg, and Desserts. The app also includes features such as sign-in, adding items to the cart, viewing order details, and calculating delivery charges.
 
 ## Features
-#### * Dynamic Menu: The menu dynamically updates according to categories like Veg, Non-Veg, and Desserts.
+#### * Dynamic Menu: The menu dynamically updates according to categories like Veg, Non-Veg, desert and many more.
 #### * Sign-In: User authentication for personalized food ordering experience.
 #### * Add Items to Cart: Users can add food items to their cart for easy ordering.
 #### * Order Summary: The app shows an order summary along with delivery charges.
